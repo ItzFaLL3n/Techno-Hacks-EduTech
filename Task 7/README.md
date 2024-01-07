@@ -14,6 +14,10 @@ Cracking a simple password like "password123" using tools like Hashcat and John 
 
         sudo hashcat -a 0 -m 0 <name_of_file_in_which_hash_is_stored> /usr/share/wordlists/rockyou.txt
 
+#Using A Hash Generator
+#Note i'm Using a Hash Generator To Generate Password 
+#i'm Not Using Hashcat(For The Tuto)
+
 # John the Ripper
 ->Type:
 

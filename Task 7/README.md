@@ -23,3 +23,7 @@ Cracking a simple password like "password123" using tools like Hashcat and John 
 
     john  --format=Raw-MD5  --wordlist=/usr/share/wordlists/rockyou.txt <location_of_file_in_which_hash_is_stored>
 
+
+
+https://github.com/ItzFaLL3n/Techno-Hacks-EduTech/assets/94567401/87841db8-c335-40ef-8dcd-5bd0ba287d20
+
